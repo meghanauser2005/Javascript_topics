@@ -1,0 +1,11 @@
+syntax
+datatypes
+   - string,number,boolean,array,object,undefined,null
+variables
+type conversion
+operators
+conditional statements
+functions
+arrays
+objects
+ES6(modern java script)
