@@ -1,7 +1,7 @@
 function adding_numbers(a,b){
-    document.write(a*b)
+    document.write(a+b)
 }
-adding_numbers(6859,9856)
+adding_numbers(5,6)
 // operators
 // +,*,/,%,-,<,>,<=,>=,==,===,!,&&,^,||
 x="10"
